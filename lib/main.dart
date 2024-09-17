@@ -128,7 +128,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 padding: EdgeInsets.fromLTRB(0.0, 20.0, 39.0, 0.0),
                 child: Text('You have pushed the button this many times:',style:TextStyle(fontSize: 60.0))
             ),
-
+            Image.asset("images/algonquin.jpg", width: 200, height:200),
 
             TextField(controller: _controller,
                decoration: InputDecoration(
