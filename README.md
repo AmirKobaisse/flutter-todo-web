@@ -1,16 +1,22 @@
-# my_cst2335_labs
+# Flutter To-Do List Web App
 
-A new Flutter project.
+A simple Flutter web application where users can add tasks via an input bar, which are displayed as a numbered list starting at 0. Users can long-press a task to get a confirmation popup before deleting it.
 
-## Getting Started
+## Features
+- Add tasks through a top input bar
+- Numbered task list display starting from 0
+- Delete tasks with a long press confirmation dialog
+- Responsive design for web using Flutter
 
-This project is a starting point for a Flutter application.
+## Stack
+- Flutter
+- Dart
+- Material Design
 
-A few resources to get you started if this is your first Flutter project:
+## How to Run
+1. Clone the repo  
+2. Navigate to the project folder  
+3. Run the app on Chrome using Flutter web:  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Amir Kobaisse
